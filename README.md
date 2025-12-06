@@ -53,15 +53,12 @@ A model in a notebook is not a product. I wrap models in **FastAPI**, containeri
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=myselftaimoor&show_icons=true&theme=default&bg_color=00000000&hide_border=true&count_private=true" alt="myselftaimoor GitHub Stats" />
+  <img src="https://metrics.lecoq.io/myselftaimoor?template=classic&is_generating=true&languages=1&base=header%2C%20activity%2C%20reactions&base.header=0&base.activity=0&base.reactions=0&metadata=0&habits=0&user=0&intro=0&config.timezone=Asia%2FKarachi&is_public=1&wakatime=0&config.animations=svg&config.layout=default&config.octicon=true&config.display=block&config.columns=3&config.padding=10&config.border=1px%20solid%20%23d3e2e8&config.margin=8px%208px%208px%208px&config.background=white&config.color=black&config.palette=github&config.align=center" alt="myselftaimoor GitHub Stats" />
   
   <br/><br/>
+
+  <img src="https://metrics.lecoq.io/myselftaimoor?template=classic&is_generating=true&languages=1&languages.limit=6&languages.threshold=0%25&languages.indepth=false&languages.details=bytes%2C%20percentage&languages.sections=most-used&languages.layout=compact&languages.colors=github&languages.sections=most-used" alt="Top Languages" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=myselftaimoor&theme=default&hide_border=true&background=00000000" alt="myselftaimoor GitHub Streak" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myselftaimoor&layout=compact&theme=default&bg_color=00000000&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
