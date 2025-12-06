@@ -48,11 +48,7 @@ From classical **Machine Learning** (Regression, Classification) to advanced **D
 A model in a notebook is not a product. I wrap models in **FastAPI**, containerize them with **Docker**, and deploy them to the cloud (AWS/GCP), ensuring they can handle real-world traffic.
 
 ---
-
 ## 📊 GitHub Analytics
-
-## 📊 GitHub Analytics (Static)
-
 <div align="center">
   
   <img src="https://github.com/myselftaimoor/myselftaimoor/blob/main/github-metrics.svg" alt="myselftaimoor GitHub Metrics" />

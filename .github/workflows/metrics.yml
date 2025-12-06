@@ -2,10 +2,8 @@
 name: Build and Deploy Metrics
 
 on:
-  # Runs every 24 hours
   schedule:
     - cron: '0 0 * * *'
-  # Allows manual run from the Actions tab
   workflow_dispatch:
 
 jobs:
@@ -14,26 +12,19 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: anuraghazra/github-readme-stats@v2.0.1
-        with:
-          # Your GitHub token is necessary to fetch private data.
-          token: ${{ secrets.GITHUB_TOKEN }}
-          # The Metrics that will be generated:
-          plugin_is_generating: yes
-          base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Karachi
-          # Add any other metrics here if needed
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - uses: actions/checkout@v4
-      - uses: lowlighter/metrics@latest
+      - name: Generate GitHub metrics
+        uses: lowlighter/metrics@latest
         with:
-          # This creates the image file and commits it to your repository.
-          filename: github-metrics.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           user: myselftaimoor
           template: classic
-          config_timezone: Asia/Karachi
-          repositories_forks: no
           base: header, activity, community, repositories, metadata
-          # Use the 'dracula' theme for a clean dark background
-          config_palette: dracula
+          repositories_forks: no
+          config_timezone: Asia/Karachi
+          filename: github-metrics.svg
+          output_action: commit
+          committer_branch: main
+          committer_message: "chore: update GitHub metrics"
