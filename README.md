@@ -1,57 +1,92 @@
+<div>
+  <h1>
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px" style="vertical-align: middle;">
+    Greetings, I'm <i> Muhammad Taimoor Khan</i>
+  </h1>
+</div>
+
 <div align="center">
-  <h1>Muhammad Taimoor Khan</h1>
-  <p>
-    <b>Data Scientist · AI/ML Engineer · Automation Specialist</b>
-  </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=700&size=24&duration=1500&pause=100&color=39FF14¢er=true&vCenter=true&width=435&lines=WELCOME+TO+MY+GITHUB+PROFILE!;DATA+SCIENTIST;AI%2FML+ENTHUSIAST;PYTHON+DEVELOPER;DATA+ANALYST;MACHINE+LEARNING+ENGINEER;DEEP+LEARNING+PRACTITIONER;TURNING+DATA+INTO+INSIGHTS;PASSIONATE+ABOUT+AI;ALWAYS+LEARNING;LET'S+COLLABORATE!" alt="Typing SVG" />
+</div>
+
+# 🧑‍🔬 About Me
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><strong>👨‍💻 Data Wizard</strong></td>
+      <td>Muhammad Taimoor Khan</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>🚀 Mission</strong></td>
+      <td>Transforming Data into Actionable Insights</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>🎓 Knowledge Forge</strong></td>
+      <td>Bachelor's in Computer Science from Mehran UET</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>📚 Current Quest</strong></td>
+      <td>Unraveling the Mysteries of Advanced Deep Learning and Generative AI</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>💡 Passion Fuel</strong></td>
+      <td>Pushing the Boundaries of AI/ML, Crafting Data-Driven Solutions, Contributing to the Open-Source Galaxy</td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <i>🌟 Greetings, fellow data explorer! Ready to embark on a journey of innovation and discovery? Let's craft the future with data! 🌟</i>
+</div>
+
+## 🛠️ Skills & Tools
+
+<div align="center">
+
+| <span style="font-family: 'Brush Script MT', cursive;">Category</span> | Technologies |
+|----------|--------------|
+| <span style="font-family: 'Brush Script MT', cursive;">**Programming Languages**</span> | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) |
+| <span style="font-family: 'Brush Script MT', cursive;">**Data Science & Machine Learning**</span> | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) |
+| <span style="font-family: 'Brush Script MT', cursive;">**Tools & Platforms**</span> | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| <span style="font-family: 'Brush Script MT', cursive;">**Visualization**</span> | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
+
+</div>
+
+## 📈 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MTaimoorK&show_icons=true&theme=radical" alt="Your GitHub stats" />
+</div>
+
+## 🌐 Connect with Me
+
+<div align="center">
   
-  <br />
-
-  <a href="https://github.com/myselftaimoor">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=2500&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Building+production-grade+AI+systems;Automating+complex+workflows+with+n8n+%26+Python;Fine-tuning+LLMs+for+custom+use-cases;Engineering+end-to-end+MLOps+pipelines" alt="Typing SVG" />
-  </a>
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/muhammadtaimoorkhan07/)
+[![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://x.com/taaiimooor)
+[![Stack Overflow](https://img.icons8.com/color/48/000000/stackoverflow.png)](https://stackoverflow.com/users/23324858/muhammad-taimoor)
+[![HackerRank](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png)](https://www.hackerrank.com/profile/taimoor_ak223)
 </div>
 
-<br />
+## 🎯 My Goals
 
-## 👨‍💻 About Me
+- 🌟 <span class="animated-text">Contribute to open-source AI/ML projects</span>
+- 🤝 <span class="animated-text">Collaborate on impactful data science projects</span>
+- 📚 <span class="animated-text">Continuously learn and apply new AI techniques</span>
 
-I am a Data Scientist and Automation Engineer who loves building systems that run themselves. My work sits at the intersection of **Deep Learning**, **Generative AI**, and **Process Automation**. I don't just build models; I build the pipelines, the APIs, and the automated workflows that make them usable in the real world.
+## 💡 Fun Facts
 
----
-
-## 🛠️ Technical Arsenal
+- 🧩 I enjoy solving complex problems with data
+- 🎬 Big fan of sci-fi movies and books
+- 🔬 Love experimenting with new technologies
 
 <div align="center">
-
-| **Category** | **Stack** |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
-| **AI & Machine Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-EB1000?style=flat-square&logo=xgboost&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-339933?style=flat-square&logo=lightgbm&logoColor=white) |
-| **Generative AI & LLMs** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logo=llama&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white) |
-| **Automation & Scraping** | ![n8n](https://img.shields.io/badge/n8n-FF6584?style=flat-square&logo=n8n&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=flat-square&logo=zapier&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-000000?style=flat-square&logo=python&logoColor=white) |
-| **Data Engineering** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white) ![Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) |
-| **MLOps & Deployment** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
 ---
 
-## 🔄 How I Work
-
-#### 1. 🤖 Automation & Orchestration
-I use **n8n** and **Python scripts** to eliminate repetitive tasks. Whether it's connecting Webhooks, scraping data from dynamic websites, or auto-generating reports, I build workflows that run without human intervention.
-
-#### 2. 🧠 Intelligent Modeling
-From classical **Machine Learning** (Regression, Classification) to advanced **Deep Learning** (Computer Vision, NLP). I focus on selecting the right architecture—using Transformers for text or CNNs for image data—and validating rigorously against business metrics.
-
-#### 3. 🚀 Scalable Production
-A model in a notebook is not a product. I wrap models in **FastAPI**, containerize them with **Docker**, and deploy them to the cloud (AWS/GCP), ensuring they can handle real-world traffic.
-
----
-## 📊 GitHub Analytics
 <div align="center">
-  
-  <img src="https://github.com/myselftaimoor/myselftaimoor/blob/main/github-metrics.svg" alt="myselftaimoor GitHub Metrics" />
-
+  <img src="https://komarev.com/ghpvc/?username=MTaimoorK&style=for-the-badge&color=00bfff&label=Profile+Views&logo=eye" alt="Profile views" />
 </div>
----
