@@ -52,15 +52,16 @@ A model in a notebook is not a product. I wrap models in **FastAPI**, containeri
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=myselftaimoor&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="myselftaimoor Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=myselftaimoor&show_icons=true&theme=default&bg_color=00000000&hide_border=true&count_private=true" alt="myselftaimoor GitHub Stats" />
   
   <br/><br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=myselftaimoor&theme=radical&hide_border=true" alt="myselftaimoor Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=myselftaimoor&theme=default&hide_border=true&background=00000000" alt="myselftaimoor GitHub Streak" />
   
   <br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myselftaimoor&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myselftaimoor&layout=compact&theme=default&bg_color=00000000&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
