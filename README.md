@@ -51,30 +51,11 @@ A model in a notebook is not a product. I wrap models in **FastAPI**, containeri
 
 ## 📊 GitHub Analytics
 
+## 📊 GitHub Analytics (Static)
+
 <div align="center">
   
-  <img src="https://metrics.lecoq.io/myselftaimoor?template=classic&is_generating=true&languages=1&base=header%2C%20activity%2C%20reactions&base.header=0&base.activity=0&base.reactions=0&metadata=0&habits=0&user=0&intro=0&config.timezone=Asia%2FKarachi&is_public=1&wakatime=0&config.animations=svg&config.layout=default&config.octicon=true&config.display=block&config.columns=3&config.padding=10&config.border=1px%20solid%20%23d3e2e8&config.margin=8px%208px%208px%208px&config.background=white&config.color=black&config.palette=github&config.align=center" alt="myselftaimoor GitHub Stats" />
-  
-  <br/><br/>
+  <img src="https://github.com/myselftaimoor/myselftaimoor/blob/main/github-metrics.svg" alt="myselftaimoor GitHub Metrics" />
 
-  <img src="https://metrics.lecoq.io/myselftaimoor?template=classic&is_generating=true&languages=1&languages.limit=6&languages.threshold=0%25&languages.indepth=false&languages.details=bytes%2C%20percentage&languages.sections=most-used&languages.layout=compact&languages.colors=github&languages.sections=most-used" alt="Top Languages" />
-  
 </div>
-
 ---
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/muhammadtaimoorkhan07/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/taaiimooor">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
-  </a>
-  <a href="https://stackoverflow.com/users/23324858/muhammad-taimoor">
-    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white" alt="StackOverflow"/>
-  </a>
-  
-  <br /><br />
-  
-  <img src="https://komarev.com/ghpvc/?username=myselftaimoor&style=flat-square&color=2E8B57&label=Profile+Views" alt="Profile Views" />
-</div>
