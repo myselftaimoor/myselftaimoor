@@ -4,14 +4,29 @@
 
 ### COO at Digipex Solutions • Full Stack Developer • AI Automation Builder • Systems Thinker
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=2500&pause=900&color=0B8D61&center=true&vCenter=true&width=980&lines=I+build+apps%2C+systems%2C+and+AI-powered+workflows;Python+%7C+Laravel+%7C+Next.js+%7C+React+%7C+Express;Automation%2C+backend+systems%2C+and+operational+tools;Turning+business+problems+into+practical+digital+solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&duration=2600&pause=700&color=0B8D61&center=true&vCenter=true&width=1000&lines=I+build+apps%2C+systems%2C+and+AI-powered+workflows;Full+Stack+Developer+focused+on+practical+execution;Automation%2C+backend+systems%2C+and+operational+tools;Python+%7C+Laravel+%7C+Next.js+%7C+React+%7C+Express;LangFlow%2C+Gemini%2C+OpenAI%2C+Ollama%2C+n8n;Turning+business+problems+into+scalable+digital+systems" alt="Typing SVG" />
 
-<p>
-  <a href="https://www.linkedin.com/in/myselftaimoor/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/taaiimooor"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://stackoverflow.com/users/23324858/muhammad-taimoor"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
-  <a href="https://www.hackerrank.com/profile/taimoor_ak223"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-</p>
+<br />
+
+<img src="https://img.shields.io/badge/Focused_on-AI%20Automation-0B8D61?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Role-COO%20%40%20Digipex%20Solutions-103629?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Builds-Full%20Stack%20Systems-1f2937?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Approach-Execution%20Over%20Hype-FF6347?style=for-the-badge" />
+
+<br /><br />
+
+<a href="https://www.linkedin.com/in/myselftaimoor/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="http://digipexsolutions.com/">
+  <img src="https://img.shields.io/badge/Website-Digipex%20Solutions-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="mailto:taimoor@digipexsolutions.com">
+  <img src="https://img.shields.io/badge/Email-Discuss%20a%20Project-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://x.com/taaiimooor">
+  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 
 </div>
 
@@ -19,33 +34,33 @@
 
 ## About Me
 
-I build practical digital systems that solve real business problems.
+I build practical digital systems for businesses that want more than a nice-looking interface.
 
-My work sits at the intersection of **full stack engineering, AI automation, backend systems, and operational thinking**. I care about more than just shipping code. I care about building workflows, reducing friction, and turning messy processes into reliable systems that teams can actually use.
+My work sits at the intersection of **full stack engineering, AI automation, backend systems, and operational thinking**. I focus on turning messy workflows, manual tasks, and unclear user journeys into systems that are structured, scalable, and actually useful in the real world.
 
-As **COO at Digipex Solutions**, I work across product execution, internal systems, AI-driven automation, web applications, and digital experiences that support growth.
+As **COO at Digipex Solutions**, I work across product execution, internal tools, AI-driven automation, web applications, workflow design, and digital systems that help businesses operate better and grow with more control.
 
 ---
 
-## What I Do
+## What I Actually Build
 
-- Build full stack applications, dashboards, and internal platforms
-- Design AI-powered workflows and automation systems
-- Develop backend APIs and operational tools
-- Improve business processes through systems thinking
-- Create products that are usable, scalable, and execution-focused
-- Bridge strategy, engineering, and real-world business needs
+- Full stack web applications
+- AI-powered workflows and automation systems
+- Backend APIs and operational platforms
+- Real-time dashboards and internal tools
+- LLM-integrated products and orchestration layers
+- Conversion-aware digital systems for service businesses
 
 ---
 
 ## Current Focus
 
 - AI automation for business workflows
-- Full stack product development
-- Backend systems and API architecture
-- Internal tools and real-time dashboards
-- LLM workflows and orchestration
-- Building reliable systems instead of hype-driven demos
+- Backend architecture and API systems
+- Internal tools that reduce manual effort
+- Real-time product experiences
+- Practical LLM workflows using modern tooling
+- Building systems that create leverage, not just noise
 
 ---
 
@@ -72,11 +87,12 @@ As **COO at Digipex Solutions**, I work across product execution, internal syste
 
 ### AI and Automation
 <p>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
   <img src="https://img.shields.io/badge/LangFlow-111111?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangFlow" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Retell_AI-0B8D61?style=for-the-badge&logo=googleassistant&logoColor=white" alt="Retell AI" />
 </p>
 
@@ -102,27 +118,44 @@ As **COO at Digipex Solutions**, I work across product execution, internal syste
 
 ---
 
-## Work Style
+## How I Think
 
-I like work that combines:
+I care about systems that are:
 
-- **strategy** so the solution makes business sense  
-- **systems thinking** so the workflow stays sustainable  
-- **automation** so teams waste less manual effort  
-- **engineering execution** so the final product is reliable  
-- **product clarity** so users can actually move through it  
+- simple enough to run
+- structured enough to scale
+- practical enough to be adopted
+- automated enough to save time
+- strong enough to support growth
+
+I am more interested in **useful execution** than surface-level complexity.
 
 ---
 
-## Areas I Enjoy Building In
+## What You Can Reach Out To Me For
 
-- AI-powered workflow systems
-- Internal tools and admin dashboards
-- Business operations software
-- API-driven backend platforms
-- Real-time and automation-focused products
-- LLM-integrated apps and orchestration layers
-- Conversion-aware digital systems
+### AI Automation
+Workflow design, LLM integration, internal process automation, AI-assisted operations
+
+### Full Stack Product Builds
+Laravel, Next.js, React, backend APIs, admin systems, dashboards, business tools
+
+### System Improvement
+Fixing messy workflows, reducing manual tasks, improving user flow, making products more usable
+
+### Growth-Focused Digital Execution
+Better digital experiences, clearer funnels, stronger service business systems, execution support
+
+---
+
+## Why People Usually Reach Out
+
+- They have too many manual tasks
+- Their team is using scattered tools and broken workflows
+- They want AI in the business but do not want gimmicks
+- Their product works, but the system around it is messy
+- Their service business needs better digital infrastructure
+- They want a builder who can understand both the technical side and the business side
 
 ---
 
@@ -136,17 +169,40 @@ I like work that combines:
   <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
-> These cards use local SVG files so the profile stays stable and avoids broken public stat images.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MTaimoorK&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-## Let's Connect
+## Let's Build Something Better
 
-I am interested in building practical systems, better workflows, and AI-powered products that create real leverage.
+<div align="center">
 
-<p>
-  <a href="https://www.linkedin.com/in/myselftaimoor/">LinkedIn</a> •
-  <a href="https://x.com/taaiimooor">X</a> •
-  <a href="https://stackoverflow.com/users/23324858/muhammad-taimoor">Stack Overflow</a> •
-  <a href="https://www.hackerrank.com/profile/taimoor_ak223">HackerRank</a>
-</p>
+### If you are building a product, improving operations, or exploring AI automation, I’m always open to the right conversation.
+
+<a href="mailto:taimoor@digipexsolutions.com">
+  <img src="https://img.shields.io/badge/Email%20Me-Let's%20Talk%20About%20Your%20Project-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br /><br />
+
+<a href="https://www.linkedin.com/in/myselftaimoor/">
+  <img src="https://img.shields.io/badge/LinkedIn-Start%20a%20Conversation-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="http://digipexsolutions.com/">
+  <img src="https://img.shields.io/badge/Website-See%20Digipex%20Solutions-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<br /><br />
+
+**I’m especially interested in:**
+AI automation systems • internal tools • backend-heavy products • workflow platforms • service business infrastructure
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MTaimoorK&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+</div>
