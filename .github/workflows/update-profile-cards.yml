@@ -1,5 +1,3 @@
-name: Update profile cards
-
 on:
   schedule:
     - cron: "0 4 * * *"
