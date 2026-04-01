@@ -170,7 +170,7 @@ Better digital experiences, clearer funnels, stronger service business systems, 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MTaimoorK&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=myselftaimoor&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
